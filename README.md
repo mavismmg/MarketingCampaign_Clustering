@@ -15,3 +15,5 @@ Solução: Criei um modelo usando deep learning para saber quais ofertas enviar 
 ![alt text](https://i.imgur.com/7ovdtpP.png)
 
 ![alt text](https://i.imgur.com/S7hPSj9.jpg)
+
+![alt text](https://i.imgur.com/NTeGa3k.jpg)
