@@ -12,4 +12,6 @@ A análise da personalidade do cliente ajuda uma empresa a modificar seu produto
 
 Solução: Criei um modelo usando deep learning para saber quais ofertas enviar para cada cliente para saber se terei uma resposta positiva ou negativa, também fiz um clusterização, criei um modelo usando machine learning e comparei os resultados. Também fiz um modelo usando aprendizado de máquina e regressão linear para saber o salário de cada cliente com base nos produtos adquiridos
 
-![alt text](https://imgur.com/S7hPSj9)
+![alt text](https://i.imgur.com/7ovdtpP.png)
+
+![alt text](https://i.imgur.com/S7hPSj9.jpg)
