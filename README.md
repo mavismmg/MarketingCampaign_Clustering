@@ -11,3 +11,5 @@ Problema: a análise da personalidade do cliente é uma análise detalhada dos c
 A análise da personalidade do cliente ajuda uma empresa a modificar seu produto com base em seus clientes-alvo de diferentes tipos de segmentos de clientes. Por exemplo, em vez de gastar dinheiro para comercializar um novo produto para cada cliente no banco de dados da empresa, uma empresa pode analisar qual segmento de cliente tem maior probabilidade de comprar o produto e, em seguida, comercializar o produto apenas naquele segmento específico.
 
 Solução: Criei um modelo usando deep learning para saber quais ofertas enviar para cada cliente para saber se terei uma resposta positiva ou negativa, também fiz um clusterização, criei um modelo usando machine learning e comparei os resultados. Também fiz um modelo usando aprendizado de máquina e regressão linear para saber o salário de cada cliente com base nos produtos adquiridos
+
+![alt text](https://imgur.com/S7hPSj9)
