@@ -1,2 +1,2 @@
 # Marketing_campaign
-Need to perform clustering to summarize customer segments.
+Customers analysis, clustering, deep learning, machine learning
